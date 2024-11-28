@@ -56,15 +56,6 @@ The project was developed using:
 
 5. Open in your browser: http://localhost:5173
 
-## Course Information
-
-This application was developed as part of the Udemy course:
-
-**"React: Hooks y State hasta TypeScript, Zod, Zustand, React Query, Next.js, React Router, MERN y PERN"**
-
-Taught by: _Juan Pablo De la Torre Valdez_  
-[More about the course](https://codigoconjuan.com/)
-
 ## Contributions
 
 Contributions are welcome! If you have suggestions, ideas, or improvements, feel free to open an issue or submit a pull request.
